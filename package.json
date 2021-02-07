@@ -1,0 +1,18 @@
+{
+  "name": "frontendMaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "popmotion": "^9.1.0",
+    "rage-power": "^1.0.0",
+    "react": "^17.0.1"
+  }
+}
